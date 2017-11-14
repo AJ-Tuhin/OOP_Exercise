@@ -1,0 +1,6 @@
+E:\Exercise\BITM\OOPBsicEx\OOPBasic1st\OOPBasic1st\bin\Debug\OOPBasic1st.exe.config
+E:\Exercise\BITM\OOPBsicEx\OOPBasic1st\OOPBasic1st\bin\Debug\OOPBasic1st.exe
+E:\Exercise\BITM\OOPBsicEx\OOPBasic1st\OOPBasic1st\bin\Debug\OOPBasic1st.pdb
+E:\Exercise\BITM\OOPBsicEx\OOPBasic1st\OOPBasic1st\obj\Debug\OOPBasic1st.csprojResolveAssemblyReference.cache
+E:\Exercise\BITM\OOPBsicEx\OOPBasic1st\OOPBasic1st\obj\Debug\OOPBasic1st.exe
+E:\Exercise\BITM\OOPBsicEx\OOPBasic1st\OOPBasic1st\obj\Debug\OOPBasic1st.pdb

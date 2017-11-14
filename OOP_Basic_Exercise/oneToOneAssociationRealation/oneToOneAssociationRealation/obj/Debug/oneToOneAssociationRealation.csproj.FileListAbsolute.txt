@@ -1,0 +1,6 @@
+E:\Exercise\BITM\OOPBsicEx\oneToOneAssociationRealation\oneToOneAssociationRealation\bin\Debug\oneToOneAssociationRealation.exe.config
+E:\Exercise\BITM\OOPBsicEx\oneToOneAssociationRealation\oneToOneAssociationRealation\bin\Debug\oneToOneAssociationRealation.exe
+E:\Exercise\BITM\OOPBsicEx\oneToOneAssociationRealation\oneToOneAssociationRealation\bin\Debug\oneToOneAssociationRealation.pdb
+E:\Exercise\BITM\OOPBsicEx\oneToOneAssociationRealation\oneToOneAssociationRealation\obj\Debug\oneToOneAssociationRealation.csprojResolveAssemblyReference.cache
+E:\Exercise\BITM\OOPBsicEx\oneToOneAssociationRealation\oneToOneAssociationRealation\obj\Debug\oneToOneAssociationRealation.exe
+E:\Exercise\BITM\OOPBsicEx\oneToOneAssociationRealation\oneToOneAssociationRealation\obj\Debug\oneToOneAssociationRealation.pdb

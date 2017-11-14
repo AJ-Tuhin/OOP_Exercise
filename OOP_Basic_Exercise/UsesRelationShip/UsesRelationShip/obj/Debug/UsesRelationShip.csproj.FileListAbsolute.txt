@@ -1,0 +1,6 @@
+E:\Exercise\BITM\OOPBsicEx\UsesRelationShip\UsesRelationShip\bin\Debug\UsesRelationShip.exe.config
+E:\Exercise\BITM\OOPBsicEx\UsesRelationShip\UsesRelationShip\bin\Debug\UsesRelationShip.exe
+E:\Exercise\BITM\OOPBsicEx\UsesRelationShip\UsesRelationShip\bin\Debug\UsesRelationShip.pdb
+E:\Exercise\BITM\OOPBsicEx\UsesRelationShip\UsesRelationShip\obj\Debug\UsesRelationShip.csprojResolveAssemblyReference.cache
+E:\Exercise\BITM\OOPBsicEx\UsesRelationShip\UsesRelationShip\obj\Debug\UsesRelationShip.exe
+E:\Exercise\BITM\OOPBsicEx\UsesRelationShip\UsesRelationShip\obj\Debug\UsesRelationShip.pdb
