@@ -1,0 +1,6 @@
+E:\Exercise\BITM\OOPBsicEx\OOPConstractor\OOPConstractor\bin\Debug\OOPConstractor.exe.config
+E:\Exercise\BITM\OOPBsicEx\OOPConstractor\OOPConstractor\bin\Debug\OOPConstractor.exe
+E:\Exercise\BITM\OOPBsicEx\OOPConstractor\OOPConstractor\bin\Debug\OOPConstractor.pdb
+E:\Exercise\BITM\OOPBsicEx\OOPConstractor\OOPConstractor\obj\Debug\OOPConstractor.csprojResolveAssemblyReference.cache
+E:\Exercise\BITM\OOPBsicEx\OOPConstractor\OOPConstractor\obj\Debug\OOPConstractor.exe
+E:\Exercise\BITM\OOPBsicEx\OOPConstractor\OOPConstractor\obj\Debug\OOPConstractor.pdb
