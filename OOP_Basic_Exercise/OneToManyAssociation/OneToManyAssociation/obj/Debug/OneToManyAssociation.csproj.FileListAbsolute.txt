@@ -1,0 +1,6 @@
+E:\Exercise\BITM\OOPBsicEx\OneToManyAssociation\OneToManyAssociation\bin\Debug\OneToManyAssociation.exe.config
+E:\Exercise\BITM\OOPBsicEx\OneToManyAssociation\OneToManyAssociation\bin\Debug\OneToManyAssociation.exe
+E:\Exercise\BITM\OOPBsicEx\OneToManyAssociation\OneToManyAssociation\bin\Debug\OneToManyAssociation.pdb
+E:\Exercise\BITM\OOPBsicEx\OneToManyAssociation\OneToManyAssociation\obj\Debug\OneToManyAssociation.csprojResolveAssemblyReference.cache
+E:\Exercise\BITM\OOPBsicEx\OneToManyAssociation\OneToManyAssociation\obj\Debug\OneToManyAssociation.exe
+E:\Exercise\BITM\OOPBsicEx\OneToManyAssociation\OneToManyAssociation\obj\Debug\OneToManyAssociation.pdb

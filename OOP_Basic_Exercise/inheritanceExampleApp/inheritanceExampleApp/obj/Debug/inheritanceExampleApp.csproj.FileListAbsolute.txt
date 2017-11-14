@@ -1,0 +1,6 @@
+E:\Exercise\BITM\OOPBsicEx\inheritanceExampleApp\inheritanceExampleApp\bin\Debug\inheritanceExampleApp.exe.config
+E:\Exercise\BITM\OOPBsicEx\inheritanceExampleApp\inheritanceExampleApp\bin\Debug\inheritanceExampleApp.exe
+E:\Exercise\BITM\OOPBsicEx\inheritanceExampleApp\inheritanceExampleApp\bin\Debug\inheritanceExampleApp.pdb
+E:\Exercise\BITM\OOPBsicEx\inheritanceExampleApp\inheritanceExampleApp\obj\Debug\inheritanceExampleApp.csprojResolveAssemblyReference.cache
+E:\Exercise\BITM\OOPBsicEx\inheritanceExampleApp\inheritanceExampleApp\obj\Debug\inheritanceExampleApp.exe
+E:\Exercise\BITM\OOPBsicEx\inheritanceExampleApp\inheritanceExampleApp\obj\Debug\inheritanceExampleApp.pdb
