@@ -1,0 +1,6 @@
+E:\Exercise\BITM\OOPBsicEx\PropertySetGet\PropertySetGet\bin\Debug\PropertySetGet.exe.config
+E:\Exercise\BITM\OOPBsicEx\PropertySetGet\PropertySetGet\bin\Debug\PropertySetGet.exe
+E:\Exercise\BITM\OOPBsicEx\PropertySetGet\PropertySetGet\bin\Debug\PropertySetGet.pdb
+E:\Exercise\BITM\OOPBsicEx\PropertySetGet\PropertySetGet\obj\Debug\PropertySetGet.csprojResolveAssemblyReference.cache
+E:\Exercise\BITM\OOPBsicEx\PropertySetGet\PropertySetGet\obj\Debug\PropertySetGet.exe
+E:\Exercise\BITM\OOPBsicEx\PropertySetGet\PropertySetGet\obj\Debug\PropertySetGet.pdb
